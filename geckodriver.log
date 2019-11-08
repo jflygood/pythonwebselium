@@ -1,0 +1,18 @@
+1524686166181	geckodriver	INFO	geckodriver 0.20.1
+1524686166204	geckodriver	INFO	Listening on 127.0.0.1:59817
+1524686169208	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.hUhdgcgivoFY"
+1524686170418	Marionette	INFO	Enabled via --marionette
+1524686173352	Marionette	INFO	Listening on port 59825
+1524686174584	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ieltsregistration.org/ielts-candidate/resources/script/ICOA_checkTestPlaceAvailability.js;jsessionid=11DAD49DEF9682D3B72F8430969545DA, line 57: ReferenceError: xmlHttp is not defined
+JavaScript error: https://ieltsregistration.org/ielts-candidate/resources/script/ICOA_checkTestPlaceAvailability.js;jsessionid=11DAD49DEF9682D3B72F8430969545DA, line 57: ReferenceError: xmlHttp is not defined
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 4376, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1384, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1384, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+y_modules_ping
